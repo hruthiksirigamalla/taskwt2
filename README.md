@@ -172,7 +172,7 @@
           <img src="https://th.bing.com/th/id/R.dbd74b203decf8a2af22a039ceba8aab?rik=gnOGY1nPplizDA&riu=http%3a%2f%2fcollegepravesh.com%2fcpdata%2fuploads%2f2014%2f02%2fBITS-Pilani.jpg&ehk=RTHSxJOdYqNhti6t1bZtdXul4XUensqSakH%2bfqlziDk%3d&risl=&pid=ImgRaw&r=0" alt="" class="floatingleft">
           <img src="![2](https://user-images.githubusercontent.com/89540479/138823300-a721b0d7-d265-43f5-b471-eb70ecd33cf2.png)" alt="" class="floatingleft">
           <img src="https://th.bing.com/th/id/R.5eef37609be0fc22570c4ec07d3a7a15?rik=BqwcXAMZdvfezA&riu=http%3a%2f%2fblog.askiitians.com%2fwp-content%2fuploads%2f2014%2f04%2f3_opt.png&ehk=6uh9Djdspu706d%2bRNPO9ZobB3wGhxQtIbmfjnVK0UUQ%3d&risl=&pid=ImgRaw&r=0" alt="" class="floatingleft">
-          <img src="https://th.bing.com/th/id/OIP.Ks1rAepXSJFjCILaDlX6TQHaFj?pid=ImgDet&w=221&h=165&c=7&dpr=1.25"" alt="" class="floatingleft">
+          <img src="https://th.bing.com/th/id/OIP.Ks1rAepXSJFjCILaDlX6TQHaFj?pid=ImgDet&w=221&h=165&c=7&dpr=1.25" alt="" class="floatingleft">
           <img src="https://th.bing.com/th/id/OIP.PbsdeoXMXpr2rNXZ4wclfwHaFj?pid=ImgDet&w=550&h=412&rs=1" alt="" class="floatingleft">
           <img src="https://th.bing.com/th/id/OIP.2rYW6fuIj882P37cJTcMrgHaFj?pid=ImgDet&w=221&h=165&c=7&dpr=1.25" alt="" class="floatingleft">
           <img src="https://th.bing.com/th/id/OIP.9e3QspqhwVgXVoxpivGnhAHaFj?pid=ImgDet&w=221&h=165&c=7&dpr=1.25" alt="" class="floatingleft">
